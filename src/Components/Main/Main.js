@@ -54,6 +54,7 @@ const MainTitle = styled.h1`
   color: #fff;
   text-align: center;
   margin-bottom: 60px;
+  font-family: 'Silkscreen', cursive;
 `;
 
 const MainDesc = styled.p`
@@ -62,6 +63,7 @@ const MainDesc = styled.p`
   text-align: center;
   padding: 0 32px;
   margin-bottom: 54px;
+  font-family: 'Montserrat', sans-serif;
 `;
 
 const MainStartBtn = styled.button`
@@ -71,4 +73,5 @@ const MainStartBtn = styled.button`
   color: #fff;
   font-size: 24px;
   border-radius: 15px;
+  font-family: 'Montserrat', sans-serif;
 `;
